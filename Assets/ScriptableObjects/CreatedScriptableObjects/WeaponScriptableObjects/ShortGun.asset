@@ -1,0 +1,19 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 7771cc3846f0aad4ba93f2abaa5435dc, type: 3}
+  m_Name: ShortGun
+  m_EditorClassIdentifier: 
+  name: ShortGun
+  count: 1
+  texture: {fileID: 2800000, guid: c8c6c3cb0cc4b8a459935a754c76d824, type: 3}
+  damage: 50
+  bulletTexture: {fileID: 2800000, guid: 7af11a8c226748c4aae37688b4595957, type: 3}
